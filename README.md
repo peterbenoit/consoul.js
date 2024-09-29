@@ -1,11 +1,9 @@
 
-# 🎮 Consoul.js Documentation
+# Consoul.js Documentation
 
 ## What is **Consoul.js**?
 
 **Consoul.js** is your personal console logging superhero. 🦸‍♂️ Whether you're debugging or trying to track how your code runs, **Consoul.js** takes ordinary logging and transforms it into a fully equipped, feature-packed experience. From log levels to styling, log history, and even browser output, **Consoul.js** has you covered!
-
-It's like having a powerful gaming console for your... well, console logs! 🎮
 
 ### Why use **Consoul.js**?
 Logging in JavaScript is so much more than just `console.log("Hello World")`. Here’s why **Consoul.js** can level up your logging game:
